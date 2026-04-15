@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aneal07!
+# 👋 Hi, I'm Daiko!
 
 ### 💻 FullStack Developer | 🤖 AI Enthusiast | 🌐 Problem Solver
 
