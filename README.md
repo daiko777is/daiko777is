@@ -17,8 +17,6 @@ I'm a passionate **FullStack Developer** with some years of experience working o
 🧠 **AI & Modern Development:**
 I master the use of cutting-edge AI assistants including **Claude Code**, **Gemini/Antigravity**, **MCP (Model Context Protocol)**, and other AI-powered development tools to accelerate development and solve complex problems efficiently.
 
-💡 **My Approach:**
-They say I'm "lazy," but I prefer to think of it as working smarter, not harder. I have a knack for getting things done in style with clean, efficient code.
 
 ---
 
