@@ -6,7 +6,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate **FullStack Developer** with several years of experience working on diverse projects and technologies. I specialize in creating robust, scalable, and user-friendly applications that bridge the gap between elegant frontend design and powerful backend architecture.
+I'm a passionate **FullStack Developer** with some years of experience working on diverse projects and technologies. I specialize in creating robust, scalable, and user-friendly applications that bridge the gap between elegant frontend design and powerful backend architecture.
 
 🚀 **What I Do:**
 - Build modern web applications from concept to deployment
