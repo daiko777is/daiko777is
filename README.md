@@ -1,104 +1,118 @@
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=FullStack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/&gt;
-&lt;/p&gt;
+# 👋 Hi, I'm Daiko!
 
-&lt;p align="center"&gt;
-  &lt;a href="https://git.io/typing-svg"&gt;
-    &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+daiko777ls+%F0%9F%91%8B;FullStack+Developer+%F0%9F%9A%80;AI+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Building+the+Future+%F0%9F%92%A1" alt="Typing SVG" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+### 💻 FullStack Developer | 🤖 AI Enthusiast | 🌐 Problem Solver
 
-&lt;p align="center"&gt;
-  &lt;img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"&gt;
-&lt;/p&gt;
+---
 
-## 👨‍💻 Sobre Mí | About Me
+## 🎯 About Me
 
-&gt; 💡 **Desarrollador FullStack** con años de experiencia trabajando en diversos proyectos y tecnologías, especializado en crear soluciones escalables y eficientes.
+I'm a passionate **FullStack Developer** with several years of experience working on diverse projects and technologies. I specialize in creating robust, scalable, and user-friendly applications that bridge the gap between elegant frontend design and powerful backend architecture.
 
-🔭 **Actualmente:** Desarrollando aplicaciones web modernas y explorando nuevas arquitecturas cloud  
-🤝 **Colaboración:** Abierto a proyectos Frontend, Backend o FullStack. ¡Construyamos algo increíble juntos!  
-🧠 **Especialidad:** Puente entre el diseño frontend y la lógica backend, con enfoque en rendimiento y UX  
-🤖 **Dominio de IAs:** Experto en herramientas de inteligencia artificial modernas:
-   - **Claude Code** (Anthropic)
-   - **Gemini / AntiGravity** (Google)
-   - **MCP** (Model Context Protocol)
-   - **Agentes de IA y automatización inteligente**
+🚀 **What I Do:**
+- Build modern web applications from concept to deployment
+- Architect scalable backend systems and APIs
+- Create responsive and intuitive user interfaces
+- Integrate AI tools to enhance development workflows
 
-⚡ **Filosofía:** "Escribir código no solo funcional, sino mantenible y elegante"
+🧠 **AI & Modern Development:**
+I master the use of cutting-edge AI assistants including **Claude Code**, **Gemini/Antigravity**, **MCP (Model Context Protocol)**, and other AI-powered development tools to accelerate development and solve complex problems efficiently.
 
-&lt;p align="center"&gt;
-  &lt;img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"&gt;
-&lt;/p&gt;
+💡 **My Approach:**
+They say I'm "lazy," but I prefer to think of it as working smarter, not harder. I have a knack for getting things done in style with clean, efficient code.
 
-## 🚀 Tech Stack
+---
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
+## 🌍 Languages
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Spanish-FFD43B?style=for-the-badge&logo=spanish&logoColor=black" alt="Spanish">
+  <img src="https://img.shields.io/badge/English-1E90FF?style=for-the-badge&logo=english&logoColor=white" alt="English">
+</div>
 
-### 🗄️ Bases de Datos | Databases
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FF6F00.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-### 💻 Lenguajes de Programación | Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 💻 Tech Stack
 
-### 🛠️ Herramientas & DevOps | Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+### 🎨 Frontend Development
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white" alt="Pug">
+</div>
 
-### 🌍 Idiomas | Languages
-![Español](https://img.shields.io/badge/Espa%C3%B1ol-Nativo-2ea44f?style=for-the-badge)
-![Inglés](https://img.shields.io/badge/English-Professional-0078D4?style=for-the-badge)
+### ⚙️ Backend Development
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</div>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"&gt;
-&lt;/p&gt;
+### 🗄️ Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</div>
 
-## 📂 Mi Portafolio | My Portfolio
+### 🛠️ DevOps & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
+</div>
 
-&lt;p align="center"&gt;
-  
-  🔗 **[Ver mi trabajo | View my work](#)**
-  
-  *Próximamente: Enlace a mi portafolio completo*
-  
-&lt;/p&gt;
+### ☁️ Cloud & Deployment
+<div align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+</div>
 
-&lt;br&gt;
+### 🤖 AI & Modern Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=github&logoColor=white" alt="MCP">
+</div>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=El%20código%20es%20como%20el%20humor.%20Cuando%20tienes%20que%20explicarlo,%20es%20malo.&author=Cory%20House" alt="Dev Quote" /&gt;
-&lt;/p&gt;
+---
 
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/&gt;
-&lt;/p&gt;
+## 🚀 Let's Connect
+
+I'm always open to **collaboration** and exciting new projects! Whether it's Frontend, Backend, or full-stack development, let's explore both universes together.
+
+<div align="center">
+
+### 📫 Find me at:
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aneal07)
+
+**💼 Portfolio:** [Coming Soon] *(Link to be added)*
+
+---
+
+### ⚡ Fun Fact
+Curious about blending frontend flair with backend brains? Let's chat! I love tackling challenging problems and turning ideas into reality.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aneal07&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Thanks for stopping by! Happy Coding! 👨‍💻✨</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" />
