@@ -90,9 +90,6 @@ I'm always open to **collaboration** and exciting new projects! Whether it's Fro
 
 <div align="center">
 
-### 📫 Find me at:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aneal07)
-
 **💼 Portfolio:** [Coming Soon] *(Link to be added)*
 
 ---
