@@ -90,7 +90,7 @@ I'm always open to **collaboration** and exciting new projects! Whether it's Fro
 
 <div align="center">
 
-**💼 Portfolio:** [Coming Soon] *(Link to be added)*
+**💼 Portfolio:** https://dkalfredfolio.vercel.app/
 
 ---
 
